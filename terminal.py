@@ -3,7 +3,7 @@ from utils import InputParser
 import logging
 import os
 
-log = logging.getLogger('terminal')
+log = logging.getLogger('terminal')\\structure
 
 
 class Terminal:
